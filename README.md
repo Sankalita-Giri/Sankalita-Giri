@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sankalita</h1>
-<h3 align="center">Powered by coffee and poor life choices</h3>
+<h3 align="center">Debugging🐛 life one commit at a time.</h3>
 
 - 📫Mail : **sankalita371@gmail.com**
 
